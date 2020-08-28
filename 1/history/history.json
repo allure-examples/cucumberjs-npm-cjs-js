@@ -1,0 +1,142 @@
+{
+  "7f9201a35ba112cb1630f370994d67b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "798a53aae63538f9",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/798a53aae63538f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137639,
+        "stop" : 1598595137640,
+        "duration" : 1
+      }
+    } ]
+  },
+  "751b37167ec666d1e9565df431dfbb23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d5758d33a23b0bb",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/7d5758d33a23b0bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137627,
+        "stop" : 1598595137631,
+        "duration" : 4
+      }
+    } ]
+  },
+  "7fcf6dea6661edeaa0b4d197b46633e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "878bbc8e32fd6dae",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/878bbc8e32fd6dae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137637,
+        "stop" : 1598595137638,
+        "duration" : 1
+      }
+    } ]
+  },
+  "e4e4ad671e2b07881119e6b8ebce223e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57c238f8e62814f1",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/57c238f8e62814f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137634,
+        "stop" : 1598595137635,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4d80c81ce3538528f504c6d449549a0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3ab11f3217ab34c",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/f3ab11f3217ab34c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137640,
+        "stop" : 1598595137641,
+        "duration" : 1
+      }
+    } ]
+  },
+  "04d16cd3c5413c3f3c298151214eb85b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1778f13cdc5271a7",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/1778f13cdc5271a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137636,
+        "stop" : 1598595137637,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5eeff412db0aa82a2660f871553b2214" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a563d9f7926be27",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/7a563d9f7926be27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137632,
+        "stop" : 1598595137634,
+        "duration" : 2
+      }
+    } ]
+  }
+}

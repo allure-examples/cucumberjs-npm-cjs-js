@@ -1,0 +1,100 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "3994",
+    "children" : [ {
+      "name" : "Create new label for authorized user",
+      "uid" : "57c238f8e62814f1",
+      "parentUid" : "e8765212ee143e37535b0d985809762f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137634,
+        "stop" : 1598595137635,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Delete existing label via api",
+      "uid" : "7a563d9f7926be27",
+      "parentUid" : "e8765212ee143e37535b0d985809762f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137632,
+        "stop" : 1598595137634,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Close existing milestone for authorized user",
+      "uid" : "f3ab11f3217ab34c",
+      "parentUid" : "e8765212ee143e37535b0d985809762f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137640,
+        "stop" : 1598595137641,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Create new milestone for authorized user",
+      "uid" : "798a53aae63538f9",
+      "parentUid" : "e8765212ee143e37535b0d985809762f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137639,
+        "stop" : 1598595137640,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Create new label via api",
+      "uid" : "7d5758d33a23b0bb",
+      "parentUid" : "e8765212ee143e37535b0d985809762f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137627,
+        "stop" : 1598595137631,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Add label to existing issue for authorized user",
+      "uid" : "1778f13cdc5271a7",
+      "parentUid" : "e8765212ee143e37535b0d985809762f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137636,
+        "stop" : 1598595137637,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Delete existing label for authorized user",
+      "uid" : "878bbc8e32fd6dae",
+      "parentUid" : "e8765212ee143e37535b0d985809762f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595137637,
+        "stop" : 1598595137638,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e8765212ee143e37535b0d985809762f"
+  } ],
+  "name" : "timeline"
+}
