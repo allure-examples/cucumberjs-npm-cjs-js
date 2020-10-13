@@ -1,0 +1,121 @@
+{
+  "uid" : "3382102bcb300b88",
+  "name" : "Create new label for authorized user",
+  "fullName" : "features/labels-web.feature:Labels:Create new label for authorized user",
+  "historyId" : "e4e4ad671e2b07881119e6b8ebce223e",
+  "time" : {
+    "start" : 1602557207921,
+    "stop" : 1602557207922,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When I open labels page",
+      "time" : {
+        "start" : 1602557207921,
+        "stop" : 1602557207921,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I create label with title \"hello\"",
+      "time" : {
+        "start" : 1602557207921,
+        "stop" : 1602557207921,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I should see label with title \"hello\"",
+      "time" : {
+        "start" : 1602557207921,
+        "stop" : 1602557207922,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4103"
+  }, {
+    "name" : "feature",
+    "value" : "Labels"
+  }, {
+    "name" : "tag",
+    "value" : "@regress"
+  }, {
+    "name" : "tag",
+    "value" : "@critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "57c238f8e62814f1",
+        "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/57c238f8e62814f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598595137634,
+          "stop" : 1598595137635,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ "@critical", "@regress" ]
+  },
+  "source" : "3382102bcb300b88.json",
+  "parameterValues" : [ ]
+}

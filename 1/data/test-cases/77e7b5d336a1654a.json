@@ -1,0 +1,133 @@
+{
+  "uid" : "77e7b5d336a1654a",
+  "name" : "Delete existing label for authorized user",
+  "fullName" : "features/labels-web.feature:Labels:Delete existing label for authorized user",
+  "historyId" : "7fcf6dea6661edeaa0b4d197b46633e8",
+  "time" : {
+    "start" : 1602557207923,
+    "stop" : 1602557207924,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When I open labels page",
+      "time" : {
+        "start" : 1602557207923,
+        "stop" : 1602557207924,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I create label with title \"hello\"",
+      "time" : {
+        "start" : 1602557207924,
+        "stop" : 1602557207924,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I delete label with title \"hello\"",
+      "time" : {
+        "start" : 1602557207924,
+        "stop" : 1602557207924,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I should not see note with content \"hello\"",
+      "time" : {
+        "start" : 1602557207924,
+        "stop" : 1602557207924,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4103"
+  }, {
+    "name" : "feature",
+    "value" : "Labels"
+  }, {
+    "name" : "tag",
+    "value" : "@smoke"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "878bbc8e32fd6dae",
+        "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/878bbc8e32fd6dae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598595137637,
+          "stop" : 1598595137638,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ "@smoke" ]
+  },
+  "source" : "77e7b5d336a1654a.json",
+  "parameterValues" : [ ]
+}

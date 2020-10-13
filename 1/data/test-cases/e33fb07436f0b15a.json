@@ -1,0 +1,118 @@
+{
+  "uid" : "e33fb07436f0b15a",
+  "name" : "Delete existing label via api",
+  "fullName" : "features/labels-rest.feature:Labels:Delete existing label via api",
+  "historyId" : "5eeff412db0aa82a2660f871553b2214",
+  "time" : {
+    "start" : 1602557207919,
+    "stop" : 1602557207920,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When I create label with title \"hello\" via api",
+      "time" : {
+        "start" : 1602557207920,
+        "stop" : 1602557207920,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I delete label with title \"hello\" via api",
+      "time" : {
+        "start" : 1602557207920,
+        "stop" : 1602557207920,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I should not see label with content \"hello\" via api",
+      "time" : {
+        "start" : 1602557207920,
+        "stop" : 1602557207920,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4103"
+  }, {
+    "name" : "feature",
+    "value" : "Labels"
+  }, {
+    "name" : "tag",
+    "value" : "@regress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7a563d9f7926be27",
+        "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/7a563d9f7926be27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598595137632,
+          "stop" : 1598595137634,
+          "duration" : 2
+        }
+      } ]
+    },
+    "tags" : [ "@regress" ]
+  },
+  "source" : "e33fb07436f0b15a.json",
+  "parameterValues" : [ ]
+}

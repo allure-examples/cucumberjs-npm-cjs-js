@@ -1,0 +1,121 @@
+{
+  "uid" : "1360b0d21a71b978",
+  "name" : "Create new milestone for authorized user",
+  "fullName" : "features/milestone-web.feature:Milestones:Create new milestone for authorized user",
+  "historyId" : "7f9201a35ba112cb1630f370994d67b1",
+  "time" : {
+    "start" : 1602557207924,
+    "stop" : 1602557207925,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When I open milestones page",
+      "time" : {
+        "start" : 1602557207925,
+        "stop" : 1602557207925,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I create milestone with title \"hello\"",
+      "time" : {
+        "start" : 1602557207925,
+        "stop" : 1602557207925,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I should see milestone with title \"hello\"",
+      "time" : {
+        "start" : 1602557207925,
+        "stop" : 1602557207925,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4103"
+  }, {
+    "name" : "feature",
+    "value" : "Milestones"
+  }, {
+    "name" : "tag",
+    "value" : "@smoke"
+  }, {
+    "name" : "tag",
+    "value" : "@regress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "798a53aae63538f9",
+        "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/798a53aae63538f9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598595137639,
+          "stop" : 1598595137640,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ "@smoke", "@regress" ]
+  },
+  "source" : "1360b0d21a71b978.json",
+  "parameterValues" : [ ]
+}

@@ -1,10 +1,10 @@
 [ {
   "name" : "GitHub Actions",
   "type" : "github",
-  "url" : "https://allure-examples.github.io/allure-js-cucumberjs",
+  "url" : "https://allure-examples.github.io/allure-javascript-cucumberjs",
   "buildOrder" : 1,
-  "buildName" : "GitHub Actions Run #228207044",
-  "buildUrl" : "https://github.com/allure-examples/allure-js-cucumberjs/actions/runs/228207044",
+  "buildName" : "GitHub Actions Run #303541720",
+  "buildUrl" : "https://github.com/allure-examples/allure-javascript-cucumberjs/actions/runs/303541720",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1/"
+  "reportUrl" : "https://allure-examples.github.io/allure-javascript-cucumberjs/1/"
 } ]

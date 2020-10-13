@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "1360b0d21a71b978",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-cucumberjs/1//#testresult/1360b0d21a71b978",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557207924,
+        "stop" : 1602557207925,
+        "duration" : 1
+      }
+    }, {
       "uid" : "798a53aae63538f9",
       "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/798a53aae63538f9",
       "status" : "passed",
@@ -24,11 +33,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "9452c7b8d79b87c9",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-cucumberjs/1//#testresult/9452c7b8d79b87c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557207916,
+        "stop" : 1602557207919,
+        "duration" : 3
+      }
+    }, {
       "uid" : "7d5758d33a23b0bb",
       "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/7d5758d33a23b0bb",
       "status" : "passed",
@@ -44,11 +62,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "77e7b5d336a1654a",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-cucumberjs/1//#testresult/77e7b5d336a1654a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557207923,
+        "stop" : 1602557207924,
+        "duration" : 1
+      }
+    }, {
       "uid" : "878bbc8e32fd6dae",
       "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/878bbc8e32fd6dae",
       "status" : "passed",
@@ -64,11 +91,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "3382102bcb300b88",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-cucumberjs/1//#testresult/3382102bcb300b88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557207921,
+        "stop" : 1602557207922,
+        "duration" : 1
+      }
+    }, {
       "uid" : "57c238f8e62814f1",
       "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/57c238f8e62814f1",
       "status" : "passed",
@@ -84,11 +120,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "5ef3ff37eb75046",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-cucumberjs/1//#testresult/5ef3ff37eb75046",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557207925,
+        "stop" : 1602557207926,
+        "duration" : 1
+      }
+    }, {
       "uid" : "f3ab11f3217ab34c",
       "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/f3ab11f3217ab34c",
       "status" : "passed",
@@ -104,11 +149,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "74ae3494cf398072",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-cucumberjs/1//#testresult/74ae3494cf398072",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557207922,
+        "stop" : 1602557207923,
+        "duration" : 1
+      }
+    }, {
       "uid" : "1778f13cdc5271a7",
       "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/1778f13cdc5271a7",
       "status" : "passed",
@@ -124,11 +178,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "e33fb07436f0b15a",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-cucumberjs/1//#testresult/e33fb07436f0b15a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557207919,
+        "stop" : 1602557207920,
+        "duration" : 1
+      }
+    }, {
       "uid" : "7a563d9f7926be27",
       "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/7a563d9f7926be27",
       "status" : "passed",

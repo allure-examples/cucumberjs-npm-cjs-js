@@ -1,0 +1,103 @@
+{
+  "uid" : "9452c7b8d79b87c9",
+  "name" : "Create new label via api",
+  "fullName" : "features/labels-rest.feature:Labels:Create new label via api",
+  "historyId" : "751b37167ec666d1e9565df431dfbb23",
+  "time" : {
+    "start" : 1602557207916,
+    "stop" : 1602557207919,
+    "duration" : 3
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When I create label with title \"hello\" via api",
+      "time" : {
+        "start" : 1602557207917,
+        "stop" : 1602557207918,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I should see label with title \"hello\" via api",
+      "time" : {
+        "start" : 1602557207918,
+        "stop" : 1602557207919,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4103"
+  }, {
+    "name" : "feature",
+    "value" : "Labels"
+  }, {
+    "name" : "tag",
+    "value" : "@smoke"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7d5758d33a23b0bb",
+        "reportUrl" : "https://allure-examples.github.io/allure-js-cucumberjs/1//#testresult/7d5758d33a23b0bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598595137627,
+          "stop" : 1598595137631,
+          "duration" : 4
+        }
+      } ]
+    },
+    "tags" : [ "@smoke" ]
+  },
+  "source" : "9452c7b8d79b87c9.json",
+  "parameterValues" : [ ]
+}
